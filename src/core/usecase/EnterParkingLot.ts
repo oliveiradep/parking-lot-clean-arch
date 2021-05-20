@@ -1,5 +1,4 @@
 import ParkedCar from "../entity/ParkedCar";
-import ParkingLot from "../entity/ParkingLot";
 import ParkingLotRepository from "../repository/ParkingLotRepository";
 
 export default class EnterParkingLot {
